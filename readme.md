@@ -21,7 +21,7 @@ The project uses sample data to demonstrate how a smart meter analytics and bill
 - Calculate estimated electricity bills automatically.
 - Manage customer and meter information.
 - Maintain billing history.
-- Provide separate demo experiences for homeowners and utility billing teams.
+- Provide separate demo experiences for homeowners and utility billing teams
 
 ✨ Key Features — MVP Scope
 
